@@ -28,3 +28,4 @@
     F. true. Boolean(2) converts 2 into true.
 15. == compares two objects after trying to convert them to the same type. === also checks if the types are the same.
 16. This will return [2, 4, 6] because it iterates through each item in the input array, applies the callback function, which in this case doubles the value, and pushes the result to a new array which is returned.
+17. 1432. JS handles synchronous tasks first, then asynchronous.
